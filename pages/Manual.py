@@ -82,4 +82,4 @@ with st.sidebar.header('Manual'):
     st.components.v1.html(html_sidebar,height=500)
 
 
-st.components.v1.html(html_main,height=10000)
+st.components.v1.html(html_main,height=7500)
